@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("github首次启动");
-	
+	printf("github2次启动");
+
 }
